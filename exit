@@ -1,0 +1,71 @@
+[33mcommit e2fb3c289bb65435d5845ac9bb347157ead5f2d1[m[33m ([m[1;36mHEAD -> [m[1;32mrobson-tognetti-zoo-functions-project[m[33m, [m[1;31morigin/robson-tognetti-zoo-functions-project[m[33m)[m
+Author: BradockBr <robtognetti@gmail.com>
+Date:   Tue Aug 2 16:03:44 2022 -0300
+
+    calculateEntry final
+
+[33mcommit 74d94dd4e5775816021215eb2987537afc4b4910[m
+Author: BradockBr <robtognetti@gmail.com>
+Date:   Tue Aug 2 15:35:25 2022 -0300
+
+    calculatEntry refatorando
+
+[33mcommit 3f3c475d9559c54b797bf38cc44967ba9d865d2a[m
+Author: BradockBr <robtognetti@gmail.com>
+Date:   Tue Aug 2 15:04:28 2022 -0300
+
+    getEmployeddByName concertando erros
+
+[33mcommit 6c063edb50afc63989e37a5ba3af17913d9fb637[m
+Author: BradockBr <robtognetti@gmail.com>
+Date:   Mon Aug 1 18:05:09 2022 -0300
+
+    concertando calculateEntry
+
+[33mcommit 312696341d4b7e522867d21ae121cd80ab1495e5[m
+Author: BradockBr <robtognetti@gmail.com>
+Date:   Sun Jul 31 20:06:22 2022 -0300
+
+    calculateEntry
+
+[33mcommit f69389ef24fb56e5e793dc6261649c4ac4043444[m
+Author: BradockBr <robtognetti@gmail.com>
+Date:   Sun Jul 31 17:50:27 2022 -0300
+
+    getRelatedEmployees
+
+[33mcommit 86b0bc2783731ca10caa7d20cf33bee672f976ff[m
+Author: BradockBr <robtognetti@gmail.com>
+Date:   Sun Jul 31 15:44:42 2022 -0300
+
+    getEmployeeByName
+
+[33mcommit 4ac5eaf9c9ce1ecf3055bf9858f2b67b86afd3a9[m
+Author: BradockBr <robtognetti@gmail.com>
+Date:   Fri Jul 29 18:08:02 2022 -0300
+
+    iniciando o projeto. VAMOS COM TUDO :rocket:
+
+[33mcommit 74495d3e249ec88f9c207c8ef0a731a55a0ce33f[m[33m ([m[1;31morigin/werley-zoo-functions[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/davi-zoo-functions-project[m[33m, [m[1;31morigin/clenio-tenorio-zoo-functions-project[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Caról SÌlva <42356399+caabeatriz@users.noreply.github.com>
+Date:   Thu Jul 28 14:16:01 2022 -0300
+
+    Update README.md
+
+[33mcommit f23ea36fe3174df0e76ebb3229424fcea970b30b[m
+Author: trybe-tech-ops <82593112+trybe-tech-ops@users.noreply.github.com>
+Date:   Wed Jul 27 19:50:02 2022 -0300
+
+    .github/workflows/main.yml updated
+
+[33mcommit b465b875f831e975c76482289c4bdaa240174559[m
+Author: trybe-tech-ops <82593112+trybe-tech-ops@users.noreply.github.com>
+Date:   Wed Jul 27 19:50:01 2022 -0300
+
+    README.md updated
+
+[33mcommit 764dd9ed15227ab571535ea60bea60eb03cae3ae[m
+Author: trybe-tech-ops <82593112+trybe-tech-ops@users.noreply.github.com>
+Date:   Wed Jul 27 19:50:00 2022 -0300
+
+    Initial commit
